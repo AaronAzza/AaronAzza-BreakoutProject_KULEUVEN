@@ -1,2 +1,4 @@
 # AaronAzza-BreakoutProject_KULEUVEN
-Implementation of the classic Breakout game in Java, built for the Object-Oriented Programming course at KU Leuven’s Faculty of Informatics. Features modular design, custom physics, multiple brick/ball types, and a clean architecture showcasing advanced OOP principles.
+This repository contains the implementation of the classic Breakout game in Java, developed together with another student as part of the Object-Oriented Programming course at KU Leuven’s Faculty of Informatics. The project was originally hosted in the university’s private GitLab and has been added here for portfolio purposes.
+
+The codebase focuses on applying advanced object-oriented programming principles such as inheritance, composition, and polymorphism in a real-world game setting. While some core components (e.g. physics engine and base utilities) were provided by the course, we were responsible for extending the architecture, designing modular game objects, and ensuring a clean and maintainable code structure.
